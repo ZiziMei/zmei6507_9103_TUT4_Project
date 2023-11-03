@@ -47,8 +47,8 @@ function draw() {
      var angle = map(noise(points[i].x*mult,points[i].y*mult), 0,1,0,500); //Angle
      points[i].add(createVector(cos(angle),sin(angle)));
 
-     //circle(points[i].x,points[i].y,2);
-     rect(points[i].x,points[i].y,3,5); //Shape Rectangle or Circle
+     circle(points[i].x,points[i].y,2);
+     //rect(points[i].x,points[i].y,3,5); //Shape Rectangle or Circle
      let color = pic.get(points[i].x,points[i].y);
      fill(color);
      noStroke();
