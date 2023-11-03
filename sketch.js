@@ -44,7 +44,7 @@ function draw() {
    //background(255,10); //Background or
    for(var i=0; i<points.length;i++){
      
-     var angle = map(noise(points[i].x*mult,points[i].y*mult), 0,1,0,20); //Angle
+     var angle = map(noise(points[i].x*mult,points[i].y*mult), 0,1,0,500); //Angle
      points[i].add(createVector(cos(angle),sin(angle)));
 
      //circle(points[i].x,points[i].y,2);
