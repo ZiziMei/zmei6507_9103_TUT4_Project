@@ -10,7 +10,7 @@ function draw() {
   background(30);
   rotateX(55);
   
-  //The sky
+  //The Grand Canal
   translate(0, 0, -40);
   for (var i = 0; i < 100; i += 1) {
     beginShape();
@@ -32,8 +32,8 @@ function draw() {
     }
     endShape(CLOSE);
   }
-
-  //The Grand Canal
+  
+  //The sky
   translate(0, 0, 100);
   rotateX(7);
   for (var i = 0; i < 100; i++) {
