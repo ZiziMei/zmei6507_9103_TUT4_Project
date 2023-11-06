@@ -2,6 +2,18 @@
 # 9103 MajorProject
 
 ## Zizi Mei (Random Seed or Perlin Noise)
+
+### Work Diary
+![An image of First step](readmeImages/Project1.png)
+![An image of Second step](readmeImages/Project2.png)
+![An image of Third step](readmeImages/Project3.png)
+
+### The church
+**Considering that in Monet's artwork, the church and the sky and the Grand Canal of Venice used the same painting technique, this artwork presents the optical illusion that the church seems to float completely in the background, making the audience feel mysterious and hazy.**
+
+**In my project, I will also use the same circle as the sky to represent the church.     Through the gradual change of colors, the cone symbolizing the church will be integrated in color with the sea level of the Grand Canal, aiming to reflect the core of the original artwork.**
+
+### The Grand Canal
 **I will use perlin noise to animate my project.**
 
 **I was inspired by a video that illustrated an artistic concept of mixing paint with water. This led me to think further about Monet's painting technique for depicting the water in 'Saint Georges majeur au crépuscule', that is, to draw the flow of the Grand Canal through lines and brush strokes. Through the perlin noise, I will follow the flow implied by the brush strokes in the original artwork and try to simulate the horizontal undulations and the waves of the Grand Canal in Venice.**
